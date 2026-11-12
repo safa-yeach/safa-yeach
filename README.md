@@ -22,7 +22,7 @@ Memiliki latar belakang pendidikan dari MA Al Irsyad Biringkaloro dan terbiasa m
 
 ### 🚀 Proyek & Simulasi Lab Jaringan
 
-#### 1. [Enterprise High-Availability Network Topology](https://github.com)
+#### 1. [Enterprise High-Availability Network Topology]
 Simulasi arsitektur jaringan skala perusahaan menggunakan Cisco Packet Tracer yang menerapkan segmentasi VLAN (10, 20, 30), LACP EtherChannel, RSTP, HSRP, DHCP Split-Scope, OSPF Area 0, hingga *Dual-ISP Failover* dan keamanan jaringan (NAT PAT & Extended ACL).
 
 #### 2. Praktik Mandiri Rancang Bangun Jaringan (Cisco Packet Tracer)
