@@ -30,4 +30,4 @@ Halo! Saya **Safa**, seorang *Network Engineering Enthusiast* yang berfokus pada
 | ![Access Layer](topology-access.png) | ![MLS Design](topology-mls.png) | ![Core Redundant](topology-core.png) |
 | Segmentasi VLAN (10, 20, 30) & 802.1Q Trunking | LACP EtherChannel, RSTP, SVI, HSRP & DHCP Split-Scope | OSPF Area 0, Dual-ISP Failover (AD 200), NAT PAT & Extended ACL |
 
-👉 **[Lihat Dokumentasi Lengkap & Sintaks Cisco IOS di Sini](https://github.com)**
+👉 **[Lihat Dokumentasi Lengkap & Sintaks Cisco IOS di Sini](Cisco_IOS_Master_Cheat_Sheet.pdf)**
